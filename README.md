@@ -7,3 +7,6 @@ Test test test.
 Intro intro intri souvislý text je toto.
 
 Opět nová věc. Změna.
+
+## Furhter ado
+- [x] Selhat v -commit-
