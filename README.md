@@ -1,2 +1,2 @@
-# playground
-Test repository for a WS
+# Test repository
+Toto je velmi testovací text. 
