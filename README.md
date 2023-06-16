@@ -10,6 +10,6 @@ Opět nová věc. Změna.
 
 ## Furhter ado
 - [x] Selhat v -commit-
-- Je to celí zatrolená záležitost
+- Je to celé zatrolená záležitost
 
 Text text text!
